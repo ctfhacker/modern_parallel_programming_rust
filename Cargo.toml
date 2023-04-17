@@ -1,0 +1,4 @@
+[workspace]
+members = [
+  "chapter1/part1"
+]
